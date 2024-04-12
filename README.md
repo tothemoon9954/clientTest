@@ -1,6 +1,7 @@
 # clientTest
 
 ### client 설정 파일
+
   spring:
     application:
       name: eureka     # 어플리케이션 이름 = Github 레포지토리에서 관리하는 파일 애플리케이션 이름
