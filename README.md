@@ -11,7 +11,7 @@ spring:
 server:
   port: 9001     # Spring Cloud Config Client 주소
 
-# 클라이언트 코드에서 Actuator 설정
+// 클라이언트 코드에서 Actuator 설정
 management:
   endpoints:
     web:
