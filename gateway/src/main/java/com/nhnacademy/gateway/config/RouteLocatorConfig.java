@@ -32,7 +32,7 @@ public class RouteLocatorConfig {
                         p->p.path("/hello").and()
                         .uri("lb://HELLO-SERVICE")
                 )
-                .route("eureka", p->p.path("/service/local").and().uri("lb://EUREKA-SERVICETEST"))
+                .route("eureka", p->p.path("/service/local").and().uri("lb://EUREKA"))
                 .build();
     }
 }
