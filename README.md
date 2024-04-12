@@ -1,8 +1,7 @@
 # clientTest
 
 ### client 설정 파일
-
-![client 설정파일](/image/client.png)
+![client설정파일](/src/main/resources/image/client.png)
 
 ### pom.xml
 		<dependency>
